@@ -6,4 +6,16 @@
 3. Run npm i to install dependencies
 4. Run one of the following commands, depending on intent:
 
+## Production Build
+```bash
+npm run build
+```
+## Development Build
+```bash
+npm run build-dev
+```
+## Development Server on port :8080
+```bash
+npm start
+```
 

@@ -1,5 +1,7 @@
 # react-app-webpack
 
+to setup boiler plate code for react app similar to create-react-app
+
 ## Start using for a new project, or playground
 1. Clone the repo
 2. Select the branch you want
